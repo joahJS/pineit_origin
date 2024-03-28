@@ -224,8 +224,8 @@
             </div>
         </section>
 
-        <Popup popupTitle="공지사항" :popupDuration="new Date('2024-02-13')">
-            <img src="/image/lunar_new_year.jpg" alt="">
+        <Popup popupTitle="공지사항" :popupDuration="new Date('2024-04-02')">
+            <img src="/image/dayOffBn.jpg" alt="">
         </Popup>
     </div>
 </template> <!-- Template Ends -->
