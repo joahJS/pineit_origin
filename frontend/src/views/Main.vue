@@ -16,7 +16,8 @@
             </div>
 
             <video class="hero-video" autoplay loop muted playsinline>
-                <source src="/src/assets/misc/main-fhd.mp4" type="video/mp4">
+                <!-- <source src="/src/assets/misc/main-fhd.mp4" type="video/mp4"> -->
+                <source src="/src/assets/misc/main_visual.mp4" type="video/mp4">
             </video>
         </section>
 
@@ -140,7 +141,7 @@
             </div>
         </section>
 
-        <section id="mainNews" class="container mx-auto mb-14">
+        <!-- <section id="mainNews" class="container mx-auto mb-14">
             <div class="recent-article">
                 <div class="recent-article-header flex flex-col justify-between">
                     <div>
@@ -180,7 +181,7 @@
                     </swiper-slide>
                 </swiper-container>
             </div>
-        </section>
+        </section> -->
 
         <section id="mainGallery" class="container mx-auto">
             <div class="recent-article">

@@ -13,6 +13,64 @@
                 </div>
 
                 <div class="history-decades-container">
+
+                    <div class="history-years-item"> <!-- 2024 -->
+                        <div class="history-years-prefix">
+                            <div data-year-prefix-scroller>
+                                24년
+                            </div>
+                        </div>
+
+                        <article class="history-years-container">
+                            <p>동원시스템즈 2차전지 포장 프로그램 구축</p>
+                            <p>부경대학교 디지털스마트부산아카데미 사업 체결(SW인재양성) 3차년도 계약</p>
+                            <p>부경대학교 산학연협력 선도대학 육성사업(LINC 3.0) 3차년도 수행</p>
+                            <p>NCS기업활용컨설팅 협약</p>
+                        </article>
+                    </div>
+
+                    <div class="history-years-item"> <!-- 2023 -->
+                        <div class="history-years-prefix">
+                            <div data-year-prefix-scroller>
+                                23년
+                            </div>
+                        </div>
+
+                        <article class="history-years-container">
+                            <p>지능형생산스케줄링 솔루션 i-Scheduler v1.5 전력파트너 협약 체결</p>
+                            <p>부경대학교 미세먼지관리 특성화대학원 사업 체결 23.9.1~</p>
+                            <p>부산과학기술정보서비스(BTIS) 기능 고도화1 계약</p>
+                            <p>지티솔루션 병상관리시스템 개발 용역</p>
+                            <p>삼양사 계근관리시스템 계약</p>
+                            <p>부경대학교 산학연협력 선도대학 육성사업(LINC 3.0) 2년차 수행</p>
+                            <p>다이브채널 WEB 구축</p>
+                            <p>코넥 Everest라인 LMS 구축</p>
+                            <!-- <p>큐에스 XR, 3D 모델링</p> -->
+
+                            <dl class="history-group">
+                                <dt>스마트팩토리 AS지원사업</dt>
+                                <dd class="detail-text">
+                                    주)대지에스텍, 주)대성테크윈, 주)에코스틸
+                                </dd>
+                            </dl>
+
+                            <dl class="history-group">
+                                <dt>스마트팩토리 사업 민간 구축</dt>
+                                <dd class="detail-text">
+                                    교하산업, 모던텍
+                                </dd>
+                            </dl>
+
+                            <dl class="history-group">
+                                <dt>중소벤처기업부 [중소기업 혁신바우처] 수행기관 선정</dt>
+                                <dd class="detail-text">
+                                    시스템 및 시설구축, 홍보지원, 스마트공장 추진전략, 디자인 개선, 브랜드 지원, 제조혁신 추진전략
+                                </dd>
+                            </dl>
+
+                        </article>
+                    </div>
+
                     <div class="history-years-item"> <!-- 2022 -->
                         <div class="history-years-prefix">
                             <div data-year-prefix-scroller>
