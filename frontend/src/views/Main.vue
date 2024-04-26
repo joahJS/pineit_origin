@@ -3,7 +3,7 @@
         <section id="mainHero">
             <div class="hero-overlay">
                 <div class="container mx-auto">
-                    <p class="hero-text-small">전문가들이 신뢰하는 IT 기업</p>
+                    <p class="hero-text-small" style="opacity: 0.65 !important; font-weight: 600 !important;">전문가들이 신뢰하는 IT 기업</p>
                     <div class="main-hero-container">
                         <h2 class="hero-text-large">
                             <font-awesome-icon icon="fa-quote-left" />
@@ -225,8 +225,8 @@
             </div>
         </section>
 
-        <Popup popupTitle="공지사항" :popupDuration="new Date('2024-04-02')">
-            <img src="/image/dayOffBn.jpg" alt="">
+        <Popup popupTitle="공지사항" :popupDuration="new Date('2024-05-02')">
+            <img src="/image/work_holiday.jpg" alt="">
         </Popup>
     </div>
 </template> <!-- Template Ends -->
